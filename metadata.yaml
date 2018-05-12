@@ -1,0 +1,36 @@
+_repo: Essays-in-Experimental-Logic_40794
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: http://en.wikipedia.org/wiki/John_Dewey
+description: ''
+gutenberg_issued: '2012-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40794'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BC'
+- !lcsh 'Logic'
+- !lcsh 'Realism'
+- !lcsh 'Thought and thinking'
+tableOfContents: 'The relationship of thought and its subject-matter -- The antecedents
+  and stimuli of thinking -- Data and meanings -- The objects of thought -- Some stages
+  of logical thought -- The logical character of ideas -- The control of ideas by
+  facts -- Naïve realism vs. presentative realism -- Epistemological realism: the
+  alleged ubiquity of the knowledge relation -- The existence of the world as a logical
+  problem -- What pragmatism means by practical -- An added note as to the "practical"
+  -- The logic of judgments of practice.'
+title: Essays in Experimental Logic
+url: http://www.gutenberg.org/ebooks/40794
